@@ -116,3 +116,6 @@ $ rails c
 ```
 $ rails s
 ```
+
+<img width="526" alt="api" src="https://user-images.githubusercontent.com/83254076/142792835-f0baa310-e7a6-4560-b5a8-0a13793c63a8.png">
+
